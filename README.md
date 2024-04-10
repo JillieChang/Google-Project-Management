@@ -2,7 +2,7 @@
 <br/>
 
 
-<p style="text-align:justify"> A Word Cloud  or Tag Cloud is a graphical representation of word frequency within a text: the more often a word is used in a text, the bigger and bolder it is represented in a graph. It can be a useful tool to communicate at a glance the most important keywords in a particular text or topic in a effective and fun way. </p>
+<p style="text-align:justify"> PM def: The application of knowledge, skills, tools, and techniques to meet the project requeriments and achieve the desired outcome </p>
 
 <p style="text-align:justify"> In this tutorial we will create a Word Cloud from a sample of nameless tweets extracted from Twitter for the period 3/16/2020 - 08/31/2020 in Peru. The dataset was modificated to respect Twitter private information policy and is used just as an example to show how to create a Word Cloud.  </p>
 
