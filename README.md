@@ -2,7 +2,7 @@
 <br/>
 
 
-<p style="text-align:left"> **PM definition:** The application of knowledge, skills, tools, and techniques to meet the project requeriments and achieve the desired outcome </p>
+**PM definition:** The application of knowledge, skills, tools, and techniques to meet the project requeriments and achieve the desired outcome 
 
 <p style="text-align:justify"> In this tutorial we will create a Word Cloud from a sample of nameless tweets extracted from Twitter for the period 3/16/2020 - 08/31/2020 in Peru. The dataset was modificated to respect Twitter private information policy and is used just as an example to show how to create a Word Cloud.  </p>
 
