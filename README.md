@@ -21,16 +21,12 @@
         Project Support Specialist: Works alongside a project manager and team members to oversee assigned projects. May also be responsible for training and developing employees to perform designated tasks.
 
   more experience 
+
           Project Manager: Responsible for the initiating, planning, executing, monitoring, and closing of a project. Includes industry-specific titles like IT project manager, construction project manager, or engineering project manager, which utilize skills that are transferable among industries.
-          
           Project Analyst: Moves a project along by sharing information, providing support through data analysis, and contributing to strategy and performance. 
-          
           Project Leader/Director: Drives core decision-making and sets the direction for the project. Usually knowledgeable about the product or deliverable. 
-          
           Project Controller: Primarily responsible for project planning. You are likely to see this job title in industries like engineering and construction.
-          
           Technical Project Manager: Conducts project planning and management for identified goals within a company. Ensures that projects are completed to the requirements within a defined time frame and budget.
-          
           Project Management Office (PMO) Analyst: Manages the progress of complex projects to ensure timely execution and completion. 
 
     <ul> notes:
