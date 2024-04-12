@@ -13,6 +13,7 @@
 - **What does a project manager do?** He/she follow a process that involves **planing and organizing**, **managing tasks**, budgeting and controlling costs and other factors. Everything they do helps make sure the project can be completed on time and on budget (and ensure that it brings value to the company)
 - **habilities project manager:** manage task, plan an organize, budget and control cost
 - **roles**
+  
         Junior Project Manager: Performs all aspects of being a project manager alongside a more experienced professional.
         Project Administrator: Assists the rest of the project team with administrative tasks. 
         Project/Program Assistant: Supports team members working on a project and offers administrative support. May perform research or create training documents along with other jobs as assigned by program leaders.
