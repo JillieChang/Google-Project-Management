@@ -11,7 +11,18 @@
 - **What is a project** is a serie of tasks that need to be completed to reach the desired outcome.Reaching that desired outcome involves collaboration and careful planning that keepts the project on track and on budget. IT has a defined begining and end.
 - **What is PM? Why is important** It is the application of knowledge, skills, tools, and techniques to meet the project requeriments and achieve the desired outcome . It is valuable for business because it ensures that a project delivers the expected outcomes.
 - **What does a project manager do?** He/she follow a process that involves **planing and organizing**, **managing tasks**, budgeting and controlling costs and other factors. Everything they do helps make sure the project can be completed on time and on budget (and ensure that it brings value to the company)
-    
+- **habilities project manager:** manage task, plan an organize, budget and control cost
+- **roles**
+          Junior Project Manager: Performs all aspects of being a project manager alongside a more experienced professional.
+        
+        Project Administrator: Assists the rest of the project team with administrative tasks. 
+        
+        Project/Program Assistant: Supports team members working on a project and offers administrative support. May perform research or create training documents along with other jobs as assigned by program leaders.
+        
+        Project/Program Coordinator: Participates in hands-on project work and administrative tasks. Works under a project manager to make sure projects are completed on time and within budget.
+        
+        Project Support Specialist: Works alongside a project manager and team members to oversee assigned projects. May also be responsible for training and developing employees to perform designated tasks.
+  
     <ul> notes:
       <li> managing task: the project manager helps manage task for the team members and comunicates key milestones to the team or customers (update on the progress)</li> 
       <li> budgeting and controlling costs and other factors: the plan you have created can change causing unexpected costs </li> 
