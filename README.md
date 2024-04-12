@@ -40,10 +40,14 @@
 **Using buzzwords in your job search**
 https://d3c33hcgiwev3.cloudfront.net/WWLypDpZTBmi8qQ6WZwZAA_9799abc55f6f495194daa6e73c2dc0f1_Using-buzzwords-in-your-job-search.pdf?Expires=1713052800&Signature=fKN4eP2hUV5oGCIIpwhddvi8ocFqWg6y0UoB1bv5B7UTjoIUpHOVo3Jp3l6GonQZfN4S5-~yPRW2JZU6GCCLJxGQdjRL3cdA4Sqf9AsnSxr05h3ca-L5~NXXmLt3OIGZaLCgkCUW1qcTFrJgzwskNNA0lbMYm54I-o0W6Nm5SX0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
 
-# Responsibilities that utilize interpersonal skills
-
 
 # Module 2 : becoming an effective project management
+
+## Exploring how a project manager adds value
+- 
+
+Responsibilities that utilize interpersonal skills
+
 
 
     <ul> notes:
