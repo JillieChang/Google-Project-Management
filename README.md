@@ -29,7 +29,7 @@
           Technical Project Manager: Conducts project planning and management for identified goals within a company. Ensures that projects are completed to the requirements within a defined time frame and budget.
           Project Management Office (PMO) Analyst: Manages the progress of complex projects to ensure timely execution and completion. 
 
-![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/2bceb3b5-0936-48f5-a4d5-3b2b5d2aa157)
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/e588abad-e002-434d-9391-007fd4489268)
 
 - project managers are responsible for the day-to-day management of projects
 - Program managers are responsible for managing many projects. Successfully implementing programs as a program manager can eventually make you a great fit for more senior positions, such as
