@@ -29,6 +29,20 @@
           Technical Project Manager: Conducts project planning and management for identified goals within a company. Ensures that projects are completed to the requirements within a defined time frame and budget.
           Project Management Office (PMO) Analyst: Manages the progress of complex projects to ensure timely execution and completion. 
 
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/2bceb3b5-0936-48f5-a4d5-3b2b5d2aa157)
+
+- project managers are responsible for the day-to-day management of projects
+- Program managers are responsible for managing many projects. Successfully implementing programs as a program manager can eventually make you a great fit for more senior positions, such as
+- a senior program manager or a portfolio manager. A portfolio is a collection of projects and programs across an entire organization. Portfolio managers look at all projects and programs within the organization and prioritize work as necessary.  
+
+**some companies see PM as skill not as a role**
+
+**Using buzzwords in your job search**
+https://d3c33hcgiwev3.cloudfront.net/WWLypDpZTBmi8qQ6WZwZAA_9799abc55f6f495194daa6e73c2dc0f1_Using-buzzwords-in-your-job-search.pdf?Expires=1713052800&Signature=fKN4eP2hUV5oGCIIpwhddvi8ocFqWg6y0UoB1bv5B7UTjoIUpHOVo3Jp3l6GonQZfN4S5-~yPRW2JZU6GCCLJxGQdjRL3cdA4Sqf9AsnSxr05h3ca-L5~NXXmLt3OIGZaLCgkCUW1qcTFrJgzwskNNA0lbMYm54I-o0W6Nm5SX0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
+
+
     <ul> notes:
       <li> managing task: the project manager helps manage task for the team members and comunicates key milestones to the team or customers (update on the progress)</li> 
       <li> budgeting and controlling costs and other factors: the plan you have created can change causing unexpected costs </li> 
