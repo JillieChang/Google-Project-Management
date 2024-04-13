@@ -44,7 +44,7 @@ https://d3c33hcgiwev3.cloudfront.net/WWLypDpZTBmi8qQ6WZwZAA_9799abc55f6f495194da
 # Module 2 : becoming an effective project management
 
 ## Exploring how a project manager adds value
-  <img  src="https://github.com/JillieChang/Google-Project-Management/assets/57914884/f00c2eae-fc5e-4d96-b185-7b64b0889564" width="400" height="200" > 
+  <img  src="https://github.com/JillieChang/Google-Project-Management/assets/57914884/f00c2eae-fc5e-4d96-b185-7b64b0889564" width="300" height="150" > 
     
 
 
