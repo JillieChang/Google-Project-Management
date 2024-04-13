@@ -45,10 +45,17 @@ https://d3c33hcgiwev3.cloudfront.net/WWLypDpZTBmi8qQ6WZwZAA_9799abc55f6f495194da
 
 ## Exploring how a project manager adds value
   <img  src="https://github.com/JillieChang/Google-Project-Management/assets/57914884/f00c2eae-fc5e-4d96-b185-7b64b0889564" width="300" height="150" > 
+  
   -** Priorization** of task required to complete a project (break large tasks into small ones)
   - **Delegation** Project mamangers use delegation to add value to their teams and organizations by matching tasks to individuals who can be best complete the work.
   - **Effective communication** Porject managers deliver value through effective communication, bot with their team and with key stakeholders.
   
+## How project managers impact organizations
+ a. ** Focusing on the customer** : 
+ - customer” refers to a person or an organization that defines the requirements of the project and sets important guidelines, such as
+budget and deadlines. 2 types>
+ - internal: stakeholders within your organization, such as management, project team members, resource managers, and other organizational departments
+ - external: customers outside of your organization, such as clients, contractors, suppliers, and consumers
 
 
 
