@@ -44,8 +44,12 @@ https://d3c33hcgiwev3.cloudfront.net/WWLypDpZTBmi8qQ6WZwZAA_9799abc55f6f495194da
 # Module 2 : becoming an effective project management
 
 ## Exploring how a project manager adds value
-  <img  src="https://github.com/JillieChang/Google-Project-Management/assets/57914884/f00c2eae-fc5e-4d96-b185-7b64b0889564" width="300" height="150" > 
-  
+
+<p align="center";font-size:20pt>
+<img  src="https://github.com/JillieChang/Google-Project-Management/assets/57914884/f00c2eae-fc5e-4d96-b185-7b64b0889564" width="300" height="150" > 
+</p>
+              
+   
   **Priorization**  of task required to complete a project (break large tasks into small ones)
   **Delegation** Project mamangers use delegation to add value to their teams and organizations by matching tasks to individuals who can be best complete the work.
   **Effective communication** Porject managers deliver value through effective communication, bot with their team and with key stakeholders.
@@ -64,8 +68,9 @@ budget and deadlines. 2 types>
 outcome they would like delivered.
 - Ask questions:
 
+<p align="center";font-size:20pt>
 <img  src="https://github.com/JillieChang/Google-Project-Management/assets/57914884/d6c11103-3dba-4340-95fe-8883af0362e6)" width="300" height="150" > 
-  
+</p> 
 
 
 
