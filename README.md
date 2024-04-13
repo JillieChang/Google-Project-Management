@@ -52,9 +52,9 @@ https://d3c33hcgiwev3.cloudfront.net/WWLypDpZTBmi8qQ6WZwZAA_9799abc55f6f495194da
   
 ## How project managers impact organizations
 
-** Focusing on the customer** : 
+** a. Focusing on the customer** 
 
- - customer” refers to a person or an organization that defines the requirements of the project and sets important guidelines, such as
+ - customer refers to a person or an organization that defines the requirements of the project and sets important guidelines, such as
 budget and deadlines. 2 types>
  - internal: stakeholders within your organization, such as management, project team members, resource managers, and other organizational departments
  - external: customers outside of your organization, such as clients, contractors, suppliers, and consumers
