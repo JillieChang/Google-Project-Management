@@ -51,7 +51,7 @@ https://d3c33hcgiwev3.cloudfront.net/WWLypDpZTBmi8qQ6WZwZAA_9799abc55f6f495194da
   **Effective communication** Porject managers deliver value through effective communication, bot with their team and with key stakeholders.
   
 ## How project managers impact organizations
- ** Focusing on the customer** : 
+** Focusing on the customer** : 
  - customer” refers to a person or an organization that defines the requirements of the project and sets important guidelines, such as
 budget and deadlines. 2 types>
  - internal: stakeholders within your organization, such as management, project team members, resource managers, and other organizational departments
@@ -61,6 +61,9 @@ budget and deadlines. 2 types>
 - You might ask if they have a specific vision of the final
 outcome they would like delivered.
 - Ask questions:
+
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/d6c11103-3dba-4340-95fe-8883af0362e6)
+
 
   <img  src="[https://github.com/JillieChang/Google-Project-Management/assets/57914884/f00c2eae-fc5e-4d96-b185-7b64b0889564](https://github.com/JillieChang/Google-Project-Management/assets/57914884/7b1c2b7b-f477-4a28-b3f9-81fac5aee16a)" width="300" height="150" > 
   
