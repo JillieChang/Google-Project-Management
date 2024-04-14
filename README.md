@@ -72,10 +72,40 @@ outcome they would like delivered.
 <img  src="https://github.com/JillieChang/Google-Project-Management/assets/57914884/d6c11103-3dba-4340-95fe-8883af0362e6)" width="300" height="150" > 
 </p> 
 
+- Taking the time to dig a little deeper into the “why” behind the project can help a project manager better support and understand the customer. The more you understand the customer’s goals, the more likely you will be able to produce what the customer is seeking.
 
+**b.Building a great team** 
+**c.Fostering relationshipts and communication** 
+- The project managers who add the most value are the ones who take the time to build relationships, communicate, and treat others with consideration and respect.
+-  Taking the time to check in daily with your team, see how they’re doing, and ask if there is anything they need help with can go a long way towards making them feel valued and heard.
 
+**d.Managing the project** 
+- Your team members don’t always see the whole picture and how they impact others in a project. A successful project manager sees the impacts of each process within the project and communicates those impacts to the team. This ensures that everyone working on the project understands their task goal as well as the big picture goal for the finished product.
+  
+**e.Breaking down barriers**
+- Sometimes, when you ask why something is being done a certain way, the response you get is, “Because we’ve always done it this way.” A project manager adds value to a project when they break down barriers, allow their team to innovate new ways to do things, and empower them to share
+ideas.
+- How can you break down barriers on a project? You can provide support for your team as they try
+new approaches to find solutions, and you can advocate for additional resources for your team. If
+your team is having a hard time getting an answer from another organization, you can reach out to
+the organization yourself in order to keep the team on track and on schedule.
 
-Responsibilities that utilize interpersonal skills
+## Learning more about project manager roles and responsibilities
+Porject manager responsibilities>
+**a.planning and organizing** 
+- making use of productivity tools and creating processes
+- create plans, timeliness, schedules, and other forms of doc. to track the project completition
+**b.managing tasks**
+  - a project task is an activity that nees to be accomplished within a set peeriod of time by you, your team or your stakeholderes.
+**c.budgeting and controlling costs and other factors**
+- monitor and manage the budget
+- track issues and risks
+- manage quality
+- eliminate barries
+
+## Responsibilities that utilize interpersonal skills
+
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/41e475ac-abd3-40c8-995f-44ae0a2d0192)
 
 
 
