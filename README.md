@@ -125,7 +125,7 @@ We all enjoy being heard and appreciated in our careers. Giving your team the ab
 **e.Communicating status and concerns**
 As a project manager, communication is everything. With effective communication, you can work together with your team to find solutions to challenges. The project manager sets the tone for the project. Maintaining an open door policy and building trust within your team and among stakeholders—all while staying positive—will help the success of the project.
 
-ins>A project manager’s role within a team</ins>
+<ins>A project manager’s role within a team</ins>
 
 - a Project Manager is not often the direct manager of the people working on a project team
 - he/she is the person who manage the task of the project, what that means?
@@ -153,4 +153,24 @@ ins>A project manager’s role within a team</ins>
 
 Being able to communicate clearly with team members, clarify the goals of the project, get team members with the right skills, measure team progress, and recognize team members’ efforts is an important part of your role as the project manager, and is key to your project’s success.
 
-## L
+## Acquiring the core skills of a successful project manager
+
+<ins>the core skills for a Project Manager</ins>
+
+- **enabling decision making**
+- **communicating and escalating**: documenting plans, sendindg emails about the status of the project, holding meetings, etc
+- **flexibility**: knowing how to be flexible when changes are needed. Plans will change
+- **strong organization skills**
+
+    - Planning and scheduling software (templates, workflows, calendars)
+    - Collaboration tools (email, collaboration software, dashboards)
+    - Documentation (files, plans, spreadsheets)
+    - Quality assurance tools (evaluations, productivity trackers, reports)
+    - Industry knowledge> tools, templates, project management styles (like waterfall agile)
+
+<ins> Key competencies: Flexibility and handling ambiguity </ins>
+
+
+
+
+
