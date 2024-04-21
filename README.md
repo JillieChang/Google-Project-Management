@@ -108,7 +108,8 @@ Project manager responsibilities>
 - manage quality
 - eliminate barries
 
-## Responsibilities that utilize interpersonal skills
+<ins>Responsibilities that utilize interpersonal skills</ins>
+
 
 ![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/41e475ac-abd3-40c8-995f-44ae0a2d0192)
 
@@ -124,8 +125,7 @@ We all enjoy being heard and appreciated in our careers. Giving your team the ab
 **e.Communicating status and concerns**
 As a project manager, communication is everything. With effective communication, you can work together with your team to find solutions to challenges. The project manager sets the tone for the project. Maintaining an open door policy and building trust within your team and among stakeholders—all while staying positive—will help the success of the project.
 
- 
-## A project manager’s role within a team
+ins>A project manager’s role within a team</ins>
 
 - a Project Manager is not often the direct manager of the people working on a project team
 - he/she is the person who manage the task of the project, what that means?
@@ -145,7 +145,7 @@ As a project manager, communication is everything. With effective communication,
     
     d. collaborate with other teams at the organizations  (your project can affect not only your teams, but other teams. eje finance team)
 
-## Working with cross-functional teams
+<ins>Working with cross-functional teams</ins>
 
 - As a project manager, you will likely work with cross-functional teams. A cross-functional team includes team members who have different backgrounds, types of expertise, and job functions. Even though these team members have different skill sets, occupy different roles, and may even work in different departments, they are all working towards a common goal: the successful completion of your project.
 
