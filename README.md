@@ -157,9 +157,12 @@ Being able to communicate clearly with team members, clarify the goals of the pr
 
 <ins>the core skills for a Project Manager</ins>
 
-- **enabling decision making**
+- **enabling decision making**: You can help team members feel empowered from the start of your project by making the decision-making process collaborative. For example, state the goals of specific deliverables and elicit input from your team on how to achieve those goals. You may have an idea of how you would like certain tasks to be accomplished, but your team members may have more creative or efficient approaches. Empowering your team to express their opinions and make their own decisions allows you to focus on the overarching management tasks and prioritize them in order of importance. Additionally, when you allow team members to have a voice in decisions, it helps foster an environment of responsibility, accountability, and team closeness.
+  
 - **communicating and escalating**: documenting plans, sendindg emails about the status of the project, holding meetings, etc
+
 - **flexibility**: knowing how to be flexible when changes are needed. Plans will change
+
 - **strong organization skills**
 
     - Planning and scheduling software (templates, workflows, calendars)
@@ -168,7 +171,14 @@ Being able to communicate clearly with team members, clarify the goals of the pr
     - Quality assurance tools (evaluations, productivity trackers, reports)
     - Industry knowledge> tools, templates, project management styles (like waterfall agile)
 
-<ins> Key competencies: Flexibility and handling ambiguity </ins>
+<ins> common myths about project manager </ins>
+
+- **Myth: You have to be an expert in the field and have a lot of technical knowledge about the project.**
+- **Only people with a lot of experience within an organization can manage projects successfully.**
+-  **Myth: You have to know every single detail about the project at all times**. Details matter in project execution, but as a project manager, you must also focus on the big picture and strategy for the project. What is the end goal? Do you and your team have a clear direction? If the whole team understands their objectives and has what they need to be successful in their tasks, they can work on the individual details and provide you space to supervise the overall project goals. Open lines of communication will help ensure that your team members share any possible risks to the budget or schedule with you. 
+
+<ins> Leadership and team dynamics </ins>
+
 
 
 
