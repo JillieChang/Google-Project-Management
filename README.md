@@ -145,9 +145,12 @@ As a project manager, communication is everything. With effective communication,
     
     d. collaborate with other teams at the organizations  (your project can affect not only your teams, but other teams. eje finance team)
 
+## Working with cross-functional teams
 
+- As a project manager, you will likely work with cross-functional teams. A cross-functional team includes team members who have different backgrounds, types of expertise, and job functions. Even though these team members have different skill sets, occupy different roles, and may even work in different departments, they are all working towards a common goal: the successful completion of your project.
 
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/fca0b701-d10c-4113-a45b-aaa56421fbbd)
 
+Being able to communicate clearly with team members, clarify the goals of the project, get team members with the right skills, measure team progress, and recognize team members’ efforts is an important part of your role as the project manager, and is key to your project’s success.
 
-    - 
-
+## L
