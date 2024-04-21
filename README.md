@@ -179,8 +179,16 @@ Being able to communicate clearly with team members, clarify the goals of the pr
 
 <ins> Leadership and team dynamics </ins>
 
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/6fcaaad5-55e8-4010-bcdd-53f437cdcfeb)
+
+key interpersonal skills
+- communication
+- negotiation
+- conflict meditation
+- undestanding motivations
 
 
+  
 
 
 
