@@ -188,6 +188,12 @@ key interpersonal skills
 - **conflict meditation** (when there ar conflits beteween the group)
 - **understanding motivations** (how they would like to reveive feedback and recognition)
 
+# Module 3 : The project management lice cycle and methodologies
+
+## Introduction: The project management life cycle and methodologies
+
+
+
 
   
 
