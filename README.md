@@ -159,7 +159,7 @@ Being able to communicate clearly with team members, clarify the goals of the pr
 
 - **enabling decision making**: You can help team members feel empowered from the start of your project by making the decision-making process collaborative. For example, state the goals of specific deliverables and elicit input from your team on how to achieve those goals. You may have an idea of how you would like certain tasks to be accomplished, but your team members may have more creative or efficient approaches. Empowering your team to express their opinions and make their own decisions allows you to focus on the overarching management tasks and prioritize them in order of importance. Additionally, when you allow team members to have a voice in decisions, it helps foster an environment of responsibility, accountability, and team closeness.
   
-- **communicating and escalating**: documenting plans, sendindg emails about the status of the project, holding meetings, etc
+- **communicating and escalating**: documenting plans, sendindg emails about the status of the project, holding meetings, etc. As a project manager, you’ll use your communication skills in just about everything you do. And you need to know when it is appropriate to escalate, so that critical issues are raised and addressed as soon as possible to reduce negative impact on a project.
 
 - **flexibility**: knowing how to be flexible when changes are needed. Plans will change
 
@@ -182,10 +182,11 @@ Being able to communicate clearly with team members, clarify the goals of the pr
 ![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/6fcaaad5-55e8-4010-bcdd-53f437cdcfeb)
 
 key interpersonal skills
-- communication
-- negotiation
-- conflict meditation
-- undestanding motivations
+
+- **communication:** 
+- **negotiation:** when the team is going to compromise to a new deadline 
+- **conflict meditation** (when there ar conflits beteween the group)
+- **understanding motivations** (how they would like to reveive feedback and recognition)
 
 
   
