@@ -190,7 +190,14 @@ key interpersonal skills
 
 # Module 3 : The project management lice cycle and methodologies
 
-## Introduction: The project management life cycle and methodologies
+## Understanding the project life cycle
+
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/5cae0a23-c9d1-45de-985c-2c999863eba2)
+
+<ins> Exploring the phases of the project life cycle </ins>
+
+
+
 
 
 
