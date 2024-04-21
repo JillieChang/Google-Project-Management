@@ -75,6 +75,7 @@ outcome they would like delivered.
 - Taking the time to dig a little deeper into the “why” behind the project can help a project manager better support and understand the customer. The more you understand the customer’s goals, the more likely you will be able to produce what the customer is seeking.
 
 **b.Building a great team** 
+
 **c.Fostering relationshipts and communication** 
 - The project managers who add the most value are the ones who take the time to build relationships, communicate, and treat others with consideration and respect.
 -  Taking the time to check in daily with your team, see how they’re doing, and ask if there is anything they need help with can go a long way towards making them feel valued and heard.
@@ -91,12 +92,16 @@ your team is having a hard time getting an answer from another organization, you
 the organization yourself in order to keep the team on track and on schedule.
 
 ## Learning more about project manager roles and responsibilities
-Porject manager responsibilities>
+
+Project manager responsibilities>
+
 **a.planning and organizing** 
 - making use of productivity tools and creating processes
 - create plans, timeliness, schedules, and other forms of doc. to track the project completition
+  
 **b.managing tasks**
-  - a project task is an activity that nees to be accomplished within a set peeriod of time by you, your team or your stakeholderes.
+  - A project task is an activity that nees to be accomplished within a set peeriod of time by you, your team or your stakeholderes.
+    
 **c.budgeting and controlling costs and other factors**
 - monitor and manage the budget
 - track issues and risks
@@ -120,3 +125,28 @@ We all enjoy being heard and appreciated in our careers. Giving your team the ab
 As a project manager, communication is everything. With effective communication, you can work together with your team to find solutions to challenges. The project manager sets the tone for the project. Maintaining an open door policy and building trust within your team and among stakeholders—all while staying positive—will help the success of the project.
 
  
+## A project manager’s role within a team
+
+- a Project Manager is not often the direct manager of the people working on a project team
+- he/she is the person who manage the task of the project, what that means?
+- Everyone on your team will have their own set of roles and responsibilities, and you will come together to ensure that everyone is able to do their part to advance the project.
+
+  ![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/97cb7d0a-1901-440c-b361-73a5a63a0049)
+
+- i.e Project manager is the person who plans the camping, but it does not means that you have to be a camping expert.
+- **Your job is not to be the expert on everything, instead you are responsible for guiding your team and making sure that they have the support they need in order to complete the project** how?
+  
+a. hold all team members accountable for their assigned tasks. give them specific pieces of the project
+
+b. Ensure that issues and risks are tracked and visible, and establis escalation paths (=communicate riscks to the right people at the right time)
+
+c. understand and help teammates to adopt the right workflows and project management styles (it is your job that the team adheres to that style)
+
+d. collaborate with other teams at the organizations  (your project can affect not only your teams, but other teams. eje finance team)
+
+
+
+
+
+    - 
+
