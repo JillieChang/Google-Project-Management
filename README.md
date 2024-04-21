@@ -134,15 +134,16 @@ As a project manager, communication is everything. With effective communication,
   ![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/97cb7d0a-1901-440c-b361-73a5a63a0049)
 
 - i.e Project manager is the person who plans the camping, but it does not means that you have to be a camping expert.
+  
 - **Your job is not to be the expert on everything, instead you are responsible for guiding your team and making sure that they have the support they need in order to complete the project** how?
   
-a. hold all team members accountable for their assigned tasks. give them specific pieces of the project
-
-b. Ensure that issues and risks are tracked and visible, and establis escalation paths (=communicate riscks to the right people at the right time)
-
-c. understand and help teammates to adopt the right workflows and project management styles (it is your job that the team adheres to that style)
-
-d. collaborate with other teams at the organizations  (your project can affect not only your teams, but other teams. eje finance team)
+    a. hold all team members accountable for their assigned tasks. give them specific pieces of the project
+    
+    b. Ensure that issues and risks are tracked and visible, and establis escalation paths (=communicate riscks to the right people at the right time)
+    
+    c. understand and help teammates to adopt the right workflows and project management styles (it is your job that the team adheres to that style)
+    
+    d. collaborate with other teams at the organizations  (your project can affect not only your teams, but other teams. eje finance team)
 
 
 
