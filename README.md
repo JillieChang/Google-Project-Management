@@ -196,6 +196,13 @@ key interpersonal skills
 
 <ins> Exploring the phases of the project life cycle </ins>
 
+basic estructure of the project> cycle
+
+1. initiate the project:
+
+2. make a plan
+3. execute & complete tasks
+4. close the project
 
 
 
