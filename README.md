@@ -198,12 +198,21 @@ key interpersonal skills
 
 basic estructure of the project> cycle
 
-1. initiate the project:
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/6e28e0fc-ad98-4aa4-b235-49dc986b13a0)
 
-2. make a plan
-3. execute & complete tasks
-4. close the project
+case of study
 
+**1. Initiating the project** 
+This is the phase Jason rushed through in the first scenario. Ideally, in this phase, Jason discusses project goals with Flight Simulators, Inc. to gain a clear understanding of what they are asking for. Once Jason has defined the project goals, he can gather the stakeholders and project team members to define what needs to be done to successfully create this training for Flight Simulators, Inc. Jason identifies the skill sets required, the timeline, and the cost to develop the training. He identifies and documents the value that this project creates for the company. He presents all of the information he has put together to his company’s leadership team, who approves Jason’s proposal. Jason then submits the proposal to Flight Simulators, Inc., and they accept it. 
+
+**2. Making a plan**
+Now that Jason has the green light to work on the project, he makes a project plan to get from start to finish. Having a plan in place ensures that all team members and stakeholders are prepared to complete their tasks. Jason outlines the important deadlines and tasks for the project to be successful. He creates a schedule to account for all resources, materials, and tasks needed to complete the project. 
+
+**3. Executing and completing tasks**
+During this project phase, Jason’s project team puts his plan in motion by executing the work. Jason monitors his team as they complete project tasks. His role as the project manager is not to complete the individual tasks but to help break down any barriers that would slow or stop the team from completing their tasks. It is also Jason’s responsibility to communicate schedule and quality expectations. Jason uses his communication skills to keep Flight Simulators, Inc. up to date on the project status and gather feedback from them. This keeps the project on schedule and within budget.
+
+**Closing the project**
+Jason’s team has successfully completed the training, and he delivers it to Flight Simulators, Inc. They are very pleased with how it turned out! Jason is now ready to close this project and move on to the next one. Before he closes this chapter, Jason and his team discuss and document the lessons learned from the project. What worked well, and what could work better next time? Jason also puts together a small lunch gathering for his team to celebrate and recognize their hard work. 
 
 
 
