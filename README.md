@@ -214,11 +214,59 @@ During this project phase, Jason’s project team puts his plan in motion by exe
 **Closing the project**
 Jason’s team has successfully completed the training, and he delivers it to Flight Simulators, Inc. They are very pleased with how it turned out! Jason is now ready to close this project and move on to the next one. Before he closes this chapter, Jason and his team discuss and document the lessons learned from the project. What worked well, and what could work better next time? Jason also puts together a small lunch gathering for his team to celebrate and recognize their hard work. 
 
+Note> What are some potential consequences of rushing through the initiation phase of a project? Select all that apply. 
+Impact to the budget
+Impact to quality
+Impact to the timeline
+
+
+## Analyzing the different project phases
+
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/4befc2ff-c653-4c8f-8304-a38964c5822c)
+
+
+<ins> Phases in action: Initiating and planning </ins>
+
+**Initiating and planning**
+
+- define project goals
+- determine resources availables (people, resources)
+- get project approval
+questions:
+Who are the stakeholders?
+What are the client’s or customer’s goals?
+What is the purpose and mission of the project?
+What are the measurable objectives for the team?
+What is the project trying to improve? 
+When does this project need to be completed? 
+What skills and resources will the project require? 
+What will the project cost? What are the benefits?
+
+**Make a plan**
+- create a budget
+- set the schedule team
+- establish your team
+- Determine roles and responsabilities
+- plan risk and change
+
+<ins> Phases in action: Executing and closing </ins>
+
+Execute and complete tasks
+- Manage the progress
+- Communicate
+- make adjustments (allocations or resources)
+
+Close the project
+- Ensure all task are completed
+- comfirm acceptance of the project outcome
+- reflect on lessons learned (A restrospective is a change to note the best practices and learn how to manage the project more effectively the next time)
+- communicate results with stakeholders (VIP of the proyect)
+- celebrate completing the project (the effort)
+- formally move on from the project
 
 
 
 
   
-
 
 
