@@ -232,6 +232,7 @@ Impact to the timeline
 - define project goals
 - determine resources availables (people, resources)
 - get project approval
+  
 questions:
 Who are the stakeholders?
 What are the client’s or customer’s goals?
@@ -243,26 +244,33 @@ What skills and resources will the project require?
 What will the project cost? What are the benefits?
 
 **Make a plan**
+
 - create a budget
 - set the schedule team
 - establish your team
 - Determine roles and responsabilities
 - plan risk and change
 
+questions
+What are the major milestones? What tasks or deliverables make up each milestone?  
+
 <ins> Phases in action: Executing and closing </ins>
 
-Execute and complete tasks
-- Manage the progress
-- Communicate
+**Execute and complete tasks**
+
+- Manage the progress: monitor as members complete project tasks.
+- Communicate: Break down any barriers that would slow or stop the team from completing tasks.  Help keep the team aware of schedule and deliverable expectations.
 - make adjustments (allocations or resources)
 
-Close the project
+**Close the project**
+
 - Ensure all task are completed
 - comfirm acceptance of the project outcome
 - reflect on lessons learned (A restrospective is a change to note the best practices and learn how to manage the project more effectively the next time)
 - communicate results with stakeholders (VIP of the proyect)
 - celebrate completing the project (the effort)
 - formally move on from the project
+- Document the lessons you and your team learned during the project.
 
 
 
