@@ -273,8 +273,28 @@ What are the major milestones? What tasks or deliverables make up each milestone
 - Document the lessons you and your team learned during the project.
 
 
+## Introduction to project management methodologies
+
+**Close the project**
+- project management methodology: a set of a guiding principles and processes for owning a project through its life cycle
+    - **linear**: means the previous phase or task has to be completed before the next can start (i.e. building a house: have a project/goal and steps in orders, 1 foundations, 2 goals, etc)
+    - **iterative**: means some of the phases and tasks will overlap or happen at the same time that other tasks are being worked on.
+
+**Overview of Waterfall and Agile**
+- Two of the most popular project management methodologies are Waterfall and Agile
+- **Waterfall**:  Waterfall as a methodology was created in the 70s, and refers to the sequential ordering of phases. You complete one at a time down the line like a waterfall starting at the top of a mountain and traveling to the bottom.
+- 
+
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/4d926f0f-9824-468a-ab09-3a59fe0d8eb4)
 
 
-  
+
+
+
+
+
+
+
+
 
 
