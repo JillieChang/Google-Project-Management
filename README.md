@@ -282,11 +282,22 @@ What are the major milestones? What tasks or deliverables make up each milestone
 
 **Overview of Waterfall and Agile**
 - Two of the most popular project management methodologies are Waterfall and Agile
-- **Waterfall**:  Waterfall as a methodology was created in the 70s, and refers to the sequential ordering of phases. You complete one at a time down the line like a waterfall starting at the top of a mountain and traveling to the bottom.
-- 
+  
+### **Waterfall**:  Waterfall as a methodology was created in the 70s, and refers to the sequential ordering of phases (**linear approach : order set of steps that are directly linked to clearly defined expectations, resources, and goals that are not likely to change**). You complete one at a time down the line like a waterfall starting at the top of a mountain and traveling to the bottom.
+    ![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/719031d8-ee42-4e28-b980-275e6192bd11)
 
 ![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/4d926f0f-9824-468a-ab09-3a59fe0d8eb4)
 
+**when? **
+  - phases of the project are clearly defined
+  - one task has to be completed before another begins
+  - changes to the project are very expensive to implement onces it started
+
+  ![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/a16b0dd3-ca2c-44cf-8d23-07b06dc2447b)
+
+  - 
+
+    
 
 
 
