@@ -312,9 +312,13 @@ Eje Agile: building a website
 ![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/aef86070-81a4-43f5-98e4-74946ae23074)
 
 
+#### **Introduction to Lean and Six Sigma**:
 
+- Lean Six Sigma is a combination of two parent methodologies, Lean and Six Sigma
+- The uses for Lean Six Sigma are common in projects that have goals to save money, improve quality, and move through processes quickly.
 
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/bf176d43-9674-4356-bf47-3f5149690dd5)
 
-
+- It also focuses on team collaboration which promotes a positive work environment. The idea is that when your team feels valued, motivation and productivity increases and the whole process functions more smoothly. There are five phases in the Lean Six Sigma approach. They are define, measure, analyze, improve, and control, commonly known as DMAIC.
 
 
