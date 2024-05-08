@@ -293,12 +293,23 @@ What are the major milestones? What tasks or deliverables make up each milestone
 
   ![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/a16b0dd3-ca2c-44cf-8d23-07b06dc2447b)
 
-#### **Agile**:  
-- the term means to be able to move quicly and easily 
-    
+#### **Agile**:
+tha concepts that shape the methodology emerged at the 90s as a response to the growing demand for faster delivery of products (mainly software applications). In 2001 it eas officialy named Agile.
 
+the term means
+- able to to move quicly and easily
+- willing to change and adapt
+- done in pieces
 
+Agile project phases overlap and task are completed in iterations, which in Scrum are called Sprints. Scrum is a form of Agile.
 
+Agile is more a mindset than just a series of steps or phases. It's concerned with building an effective, collaborative team that seeks regular feedback from the client so that they can deliver the best value as quickly as possible and adjust as changes emerge. 
+
+Projects that are best suited for an Agile approach are those where the client has an idea of what they want but doesn't have a concrete picture in mind, or they have a set of qualities they'd like to see in the end result, but aren't as concerned with exactly what it looks like
+
+Eje Agile: building a website
+
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/aef86070-81a4-43f5-98e4-74946ae23074)
 
 
 
