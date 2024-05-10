@@ -331,4 +331,16 @@ Eje Agile: building a website
 
  To sum it all up, you can remember DMAIC like this, defining tells you what to measure, measuring tells you what to analyze, analyzing tells you what to improve, and improving tells you what to control.    
 
+**Lean Six Sigma**
 
+After both Lean and Six Sigma were put into practice, it was discovered that the two methodologies could be combined to increase benefits. The tools used in Lean, such as Kanban boards and 5S, build quality in processes from the beginning. Products developed using Lean methods are then inspected or tested using Six Sigma standards. The products that do not meet these standards are rejected. 
+
+The largest difference between these methodologies is that Lean streamlines processes while Six Sigma reduces variation in products by building in quality from the beginning and inspecting products to ensure quality standards are met. You may find that one of these two methods—or using them both together—can improve the efficiency of your projects. 
+
+lean 5s
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/8b880e5a-e1d2-471a-8544-60716c3826bd)
+
+lean kanban board
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/841d1431-fcb2-437c-b932-f4aa91619feb)
+
+ver doc. 3
