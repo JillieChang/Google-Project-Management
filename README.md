@@ -321,4 +321,14 @@ Eje Agile: building a website
 
 - It also focuses on team collaboration which promotes a positive work environment. The idea is that when your team feels valued, motivation and productivity increases and the whole process functions more smoothly. There are five phases in the Lean Six Sigma approach. They are define, measure, analyze, improve, and control, commonly known as DMAIC.
 
+**phases DMAIC (strategy for process improvement)**
+
+1. **Define** the project goal and talk about expectations of the stakeholders (i.e reduce waiting time from 30 to 10 minutes)
+2. **Measure**  how the current process is performing in order to improve processes. DMAIC focus on data. you set a plan to get data and how often to measure it. 
+3. **Analyze** you will begin to identify gaps and issues
+4. **Improve**  you present ypur findings and get ready to satrt making improvements 
+5. **Control** Controlling is all about learning from the work you did up front to put new processes and documentation in place and continue to monitor so the company doesn't revert back to the old, inefficient way of doing things
+
+ To sum it all up, you can remember DMAIC like this, defining tells you what to measure, measuring tells you what to analyze, analyzing tells you what to improve, and improving tells you what to control.    
+
 
