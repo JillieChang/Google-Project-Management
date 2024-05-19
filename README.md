@@ -432,12 +432,12 @@ PMOs offer guidance and support to their organization’s project managers. They
 - Understanding an organization's culture will help you navigate your team more effectively toward achieving the project's goal. It also impacts the way you plan your project. You'll need to be familiar with an organization's culture, so that you can minimize conflict and complete the project with as much support and harmony as possible.
 -  **An organization's mission and values can provide clues to its culture**. If you can demonstrate how the project supports the company's mission or how the project aligns with the company's values, you'll have more support from executives and stakeholders to get the approvals and resources you need.
   
-  -  Pay attention to what leaders in the organization value when conducting business. Does the management team care about speed over perfection? 
-  - how people comunicate? email, phone, etc
-  - how are decisions made? mayority vote or topdown appoval
-  - What kid of rotuals are in place when someone new comes to the facility?
-  - How are projects typically run? Waterfall, Matrix, etc?
-  - What kind of practices, behaviours and values are reflected by the people in the organization
+  + Pay attention to what leaders in the organization value when conducting business. Does the management team care about speed over perfection?
+  + how people comunicate? email, phone, etc
+  + how are decisions made? mayority vote or topdown appoval
+  + What kid of rotuals are in place when someone new comes to the facility?
+  + How are projects typically run? Waterfall, Matrix, etc?
+  + What kind of practices, behaviours and values are reflected by the people in the organization
   
 
 
