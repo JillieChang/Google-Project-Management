@@ -497,15 +497,13 @@ As a project manager, you become a change agent. Remember: a change agent is a p
 
 Ask questions about communication practices when you start a new role such as: Is it customary to sign emails from the team rather than from you individually? Should presentations include team members or be solely presented by the project manager? This can help you make sure you are adhering to expectations.
 
-              Example> The Family Java’s 
+              Example: The Family Java
               The Family Java coffeehouse has over 2,000 stores worldwide. The Family Java’s culture is closely linked to their strategy and capabilities—this is what they feel sets them apart from other coffee shops. The company has invested in a relationship-driven, employees-first approach.
               
-              Mission
-              
+             **Mission**
               To provide a welcoming environment where our employees become our family and our guests become our friends
               
-              Values
-              
+              **Values**
               To create a place where everyone is welcome
               To always give our best and hold ourselves accountable for the results
               To treat others with respect and kindness
