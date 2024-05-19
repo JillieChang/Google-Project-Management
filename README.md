@@ -449,12 +449,15 @@ PMOs offer guidance and support to their organization’s project managers. They
     + Is risk-taking encouraged, and what happens when people fail?
     + How do managers support and motivate their team?
     + When and how do team members give feedback to one another?
+ 
  <u> Policies </u>
     + What are the policies around sick days and vacation?
     + Does the company allow for employee flexibility (e.g., working from home, flexible working hours)?
+ 
  <u> Processes </u>
     + What is the company’s onboarding process?
     + How do employees measure the impact of their work?
+    
 <u> Values </u>
    + What are the company’s mission and value statements?
    + How might the person in this role contribute to the organization’s mission?
