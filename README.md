@@ -438,8 +438,39 @@ PMOs offer guidance and support to their organization’s project managers. They
      + What kid of rotuals are in place when someone new comes to the facility?
      + How are projects typically run? Waterfall, Matrix, etc?
      + What kind of practices, behaviours and values are reflected by the people in the organization
+
+  ### 4.2.1 Navigating Culture: Understanding an organization’s culture
   
+-  Once you begin working on a project, here are some ways to navigate company culture that will help you get the most out of your team, and ensure that your project is supported.
+- **Ask questions** As you observe the culture, try asking your peers what they think is going well and what they would change. Your peers may have the same opinion as you, and if not you may learn something new you didn't learn in the interview process. Either way, you'll be in a better place to assess risk, adjust your current project, or be more prepared for projects in the future.
 
+<u> Atmosphere </u>
+  
+    + How do people typically share credit at this company?
+    + Is risk-taking encouraged, and what happens when people fail?
+    + How do managers support and motivate their team?
+    + When and how do team members give feedback to one another?
+  Policies
+    + What are the policies around sick days and vacation?
+    + Does the company allow for employee flexibility (e.g., working from home, flexible working hours)?
 
+  Processes
+    + What is the company’s onboarding process?
+    + How do employees measure the impact of their work?
+  
+  Values
+   + What are the company’s mission and value statements?
+   + How might the person in this role contribute to the organization’s mission?
+   + How does the organization support professional development and career growth?
 
+- **Make observations**. It's important to understand how things work, and what people like and respect about the company's culture. When working in different geographies, it's also importan to check established customs like shaking hands
+- **Understand your impact**
+
+### 4.2.2 The importance of organizational culture
+
+- **Identity**: An organization’s culture defines its identity. Its identity essentially describes the way the company conducts  business, both internally and externally. A company’s values and organizational culture go hand-in-hand; its values are part of its identity. You can almost think of an organization’s culture as its **personality.** That is why it is important to learn your company’s (or target company’s) mission and value statements. The mission and value statements will help you understand why the company exists and will give you insight into what the company believes in and how it will behave. 
+
+- **People:** Strong, positive organizational culture helps retain a company’s best employees. People who feel valued, engaged, and challenged are more likely to give their best and want to drive for success. An organization’s culture can help keep talented employees at a company, and it can attract great people too! On the other hand, a toxic culture can have the opposite effect. It is important to find an organization with a culture that fits your personality. One way to find out more about an organization's culture is to talk to the people who work there. You can also take note of the current employees’ attire, expressions, and overall behavior.
+
+- **Processes:** Organizational culture can have direct impacts on a company's processes, and ultimately, its productivity. The organization’s culture is instilled throughout the company—from its employees to how its employees do their job. For example, a company that values feedback and employee involvement might have that reflected in their processes by including many opportunities for employees to comment. By allowing employees to feel their voices are heard, this company is adhering to its culture. 
 
