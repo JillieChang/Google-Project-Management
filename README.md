@@ -425,7 +425,7 @@ PMOs offer guidance and support to their organization’s project managers. They
 <img  src="https://github.com/JillieChang/Google-Project-Management/assets/57914884/4e4f6745-b4cd-4150-a64d-28a84f8bc689" width="300" height="150" > 
 </p>
 
-       
+## 4.2 Understanding the impact of organizational culture
 
 
 
