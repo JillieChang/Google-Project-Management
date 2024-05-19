@@ -275,7 +275,6 @@ What are the major milestones? What tasks or deliverables make up each milestone
 
 ## Introduction to project management methodologies
 
-**Close the project**
 - project management methodology: a set of a guiding principles and processes for owning a project through its life cycle
     - **linear**: means the previous phase or task has to be completed before the next can start (i.e. building a house: have a project/goal and steps in orders, 1 foundations, 2 goals, etc)
     - **iterative**: means some of the phases and tasks will overlap or happen at the same time that other tasks are being worked on.
@@ -345,23 +344,64 @@ lean kanban board
 
 ver doc. 3
 
-
+------------------
 
 #### Common project management approaches and how to select one
 You have been learning a lot about different project management approaches and when to use them. In this reading, we will briefly recap some of the most common ones and recommend a couple of articles with supporting information. You’ll continue to learn more about these approaches throughout this certificate program. 
 
-**Popular project management approaches **
+**Popular project management approaches**
 
-Waterfall is a traditional methodology in which tasks and phases are completed in a linear, sequential manner, and each stage of the project must be completed before the next begins. The project manager is responsible for prioritizing and assigning tasks to team members. In Waterfall, the criteria used to measure quality is clearly defined at the beginning of the project.
+**Waterfall** is a traditional methodology in which tasks and phases are completed in a linear, sequential manner, and each stage of the project must be completed before the next begins. The project manager is responsible for prioritizing and assigning tasks to team members. In Waterfall, the criteria used to measure quality is clearly defined at the beginning of the project.
 
-Agile involves short phases of collaborative, iterative work with frequent testing and regularly-implemented improvements. Some phases and tasks happen at the same time as others. In Agile projects, teams share responsibility for managing their own work. Scrum and Kanban are examples of Agile frameworks, which are specific development approaches based on the Agile philosophy.
+**Agile** involves short phases of collaborative, iterative work with frequent testing and regularly-implemented improvements. Some phases and tasks happen at the same time as others. In Agile projects, teams share responsibility for managing their own work. Scrum and Kanban are examples of Agile frameworks, which are specific development approaches based on the Agile philosophy.
 
-Scrum is an Agile framework that focuses on developing, delivering, and sustaining complex projects and products through collaboration, accountability, and an iterative process. Work is completed by small, cross-functional teams led by a Scrum Master and is divided into short Sprints with a set list of deliverables.
+**Scrum** is an Agile framework that focuses on developing, delivering, and sustaining complex projects and products through collaboration, accountability, and an iterative process. Work is completed by small, cross-functional teams led by a Scrum Master and is divided into short Sprints with a set list of deliverables.
 
-Kanban is a tool used in both Agile and Lean approaches that provides visual feedback about the status of the work in progress through the use of Kanban boards or charts. With Kanban, project managers use sticky notes or note cards on a physical or digital Kanban board to represent the team’s tasks with categories like “To do,” “In progress,” and “Done.”
+**Kanban** is a tool used in both Agile and Lean approaches that provides visual feedback about the status of the work in progress through the use of Kanban boards or charts. With Kanban, project managers use sticky notes or note cards on a physical or digital Kanban board to represent the team’s tasks with categories like “To do,” “In progress,” and “Done.”
 
-Lean uses the 5S quality tool to eliminate eight areas of waste, save money, improve quality, and streamline processes. Lean’s principles state that you can do more with less by addressing dysfunctions that create waste. Lean implements a Kanban scheduling system to manage production.
+**Lean** uses the 5S quality tool to eliminate eight areas of waste, save money, improve quality, and streamline processes. Lean’s principles state that you can do more with less by addressing dysfunctions that create waste. Lean implements a Kanban scheduling system to manage production.
 
-Six Sigma involves reducing variations by ensuring that quality processes are followed every time. The Six Sigma method follows a process-improvement approach called DMAIC, which stands for define, measure, analyze, improve, and control.
+**Six Sigma** involves reducing variations by ensuring that quality processes are followed every time. The Six Sigma method follows a process-improvement approach called DMAIC, which stands for define, measure, analyze, improve, and control.
 
-Lean Six Sigma is a combination of Lean and Six Sigma approaches. It is often used in projects that aim to save money, improve quality, and move through processes quickly. Lean Six Sigma is also ideal for solving complex or high-risk problems. The 5S organization framework, the DMAIC process, and the use of Kanban boards are all components of this approach. 
+**Lean Six Sigma** is a combination of Lean and Six Sigma approaches. It is often used in projects that aim to save money, improve quality, and move through processes quickly. Lean Six Sigma is also ideal for solving complex or high-risk problems. The 5S organization framework, the DMAIC process, and the use of Kanban boards are all components of this approach. 
+
+Lecture: https://www.teamwork.com/project-management-guide/project-management-methodologies/
+
+
+# Module 4 : Organizational structure and culture
+
+## 4.1 Understanding organizationl structure
+
+### 4.1.1 Introduction: Organizational structure and culture
+
+you'll learn about organizational structure and culture and how they impact the way you set up and execute your project. You'll also learn about change management, which refers to the way you present the final project to the organization and get them to accept and implement your project outcome.
+
+### 4.1.2 Overview of Classic and Matrix structures
+
+So what is organizational structure? Organizational structure refers to the way a company or organization is arranged or structured. In other words, organizational structure gives you a sense of who reports to who.  But organizational structure is much more than that. Understanding the different types of organizational structures can serve as a map to help you determine where you fit in, who you should communicate with, and how frequently to communicate with them. 
+
+**Reporting chart or "org chart"**: Reporting charts show the relationship between people and groups within the organization, and details who each person or group reports to. There are a few different types of organizational structures. But for this course, we're going to focus on two of the more popular ones: Classic and Matrix.
+  
+- **Classic** grouping includes what are usually called "functional" or "**top-down**" structures. The Classic grouping follows a typical chain of command where the Chief Executive Officer, also known as CEO, and other executives are at the top, followed by directors or managers, then their direct reports and so on. Each of these directors or managers typically oversee teams within their function of the organization, like marketing, sales, or human resources. You can see this type of structure in effect by looking at a branch of the **military**. **the Classic structure follows a traditional, top-down system of reporting**
+
+  ![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/3510da90-b2e3-4cb7-aab7-fd8171688faa)
+
+- **Matrix**: You might think of a Matrix structure as a grid where you still have people above you, but you also have people in adjacent departments who expect to hear updates on your work progress. These people may not be your direct bosses, but you are responsible for communicating with them, since they may inform changes to your work.
+
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/80e63932-9ebb-41d3-a9c9-3514eccb4c57)
+
+For example, at Google, we have the major functions of marketing, sales, and more, with the traditional reporting chain. But we also have programs for our products, like Google Search, where project teams consist of program managers, engineers, user experience or "UX" designers, and so on, and each team member reports to their own management chains. **the Matrix structure has direct higher-ups to report to and stakeholders from other departments or programs.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
