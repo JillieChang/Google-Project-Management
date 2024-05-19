@@ -444,27 +444,27 @@ PMOs offer guidance and support to their organization’s project managers. They
 -  Once you begin working on a project, here are some ways to navigate company culture that will help you get the most out of your team, and ensure that your project is supported.
 - **Ask questions** As you observe the culture, try asking your peers what they think is going well and what they would change. Your peers may have the same opinion as you, and if not you may learn something new you didn't learn in the interview process. Either way, you'll be in a better place to assess risk, adjust your current project, or be more prepared for projects in the future.
 
-<u> Atmosphere </u>
-
-    + How do people typically share credit at this company?
-    + Is risk-taking encouraged, and what happens when people fail?
-    + How do managers support and motivate their team?
-    + When and how do team members give feedback to one another?
- 
- <u> Policies </u>
- 
-    + What are the policies around sick days and vacation?
-    + Does the company allow for employee flexibility (e.g., working from home, flexible working hours)?
- 
- <u> Processes </u>
- 
-    + What is the company’s onboarding process?
-    + How do employees measure the impact of their work?
-    
-<u> Values </u>
-   + What are the company’s mission and value statements?
-   + How might the person in this role contribute to the organization’s mission?
-   + How does the organization support professional development and career growth?
+        <u> Atmosphere </u>
+        
+            + How do people typically share credit at this company?
+            + Is risk-taking encouraged, and what happens when people fail?
+            + How do managers support and motivate their team?
+            + When and how do team members give feedback to one another?
+         
+         <u> Policies </u>
+         
+            + What are the policies around sick days and vacation?
+            + Does the company allow for employee flexibility (e.g., working from home, flexible working hours)?
+         
+         <u> Processes </u>
+         
+            + What is the company’s onboarding process?
+            + How do employees measure the impact of their work?
+            
+        <u> Values </u>
+           + What are the company’s mission and value statements?
+           + How might the person in this role contribute to the organization’s mission?
+           + How does the organization support professional development and career growth?
 
 
 - **Make observations**. It's important to understand how things work, and what people like and respect about the company's culture. When working in different geographies, it's also importan to check established customs like shaking hands
