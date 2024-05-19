@@ -445,20 +445,17 @@ PMOs offer guidance and support to their organization’s project managers. They
 - **Ask questions** As you observe the culture, try asking your peers what they think is going well and what they would change. Your peers may have the same opinion as you, and if not you may learn something new you didn't learn in the interview process. Either way, you'll be in a better place to assess risk, adjust your current project, or be more prepared for projects in the future.
 
 <u> Atmosphere </u>
-  
     + How do people typically share credit at this company?
     + Is risk-taking encouraged, and what happens when people fail?
     + How do managers support and motivate their team?
     + When and how do team members give feedback to one another?
-  Policies
+ <u> Policies </u>
     + What are the policies around sick days and vacation?
     + Does the company allow for employee flexibility (e.g., working from home, flexible working hours)?
-
-  Processes
+ <u> Processes </u>
     + What is the company’s onboarding process?
     + How do employees measure the impact of their work?
-  
-  Values
+<u> Values </u>
    + What are the company’s mission and value statements?
    + How might the person in this role contribute to the organization’s mission?
    + How does the organization support professional development and career growth?
