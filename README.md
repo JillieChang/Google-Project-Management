@@ -507,3 +507,8 @@ Ask questions about communication practices when you start a new role such as: I
               To create a place where everyone is welcome
               To always give our best and hold ourselves accountable for the results
               To treat others with respect and kindness
+
+## 4.3 Understanding change management
+
+
+
