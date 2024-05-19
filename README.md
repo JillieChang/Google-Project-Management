@@ -421,7 +421,11 @@ PMOs offer guidance and support to their organization’s project managers. They
 
 - **Creation of project documentation, archives, and tools**: PMOs invest in and provide templates, tools, and software to help manage projects. They also play an important role in maintaining their organization’s project history. Once a project closes, they archive all of the documents created during the project for future reference and to capture lessons learned.
 
+<p align="center";font-size:20pt>
+<img  src="https://github.com/JillieChang/Google-Project-Management/assets/57914884/4e4f6745-b4cd-4150-a64d-28a84f8bc689" width="300" height="150" > 
+</p>
 
+       
 
 
 
