@@ -468,6 +468,7 @@ PMOs offer guidance and support to their organization’s project managers. They
 
 
 - **Make observations**. It's important to understand how things work, and what people like and respect about the company's culture. When working in different geographies, it's also importan to check established customs like shaking hands
+  
 - **Understand your impact**
 
 ### 4.2.2 The importance of organizational culture
@@ -478,3 +479,33 @@ PMOs offer guidance and support to their organization’s project managers. They
 
 - **Processes:** Organizational culture can have direct impacts on a company's processes, and ultimately, its productivity. The organization’s culture is instilled throughout the company—from its employees to how its employees do their job. For example, a company that values feedback and employee involvement might have that reflected in their processes by including many opportunities for employees to comment. By allowing employees to feel their voices are heard, this company is adhering to its culture. 
 
+### 4.2.3 Take note of company rituals
+
+Rituals can be powerful drivers of culture. They engage people and help instill a sense of shared purpose and experience. 
+
+- How are birthdays and holidays celebrated? 
+- Do employees generally eat lunch at the same time and in the same place? 
+- Watch employee interactions: Observing how employees interact can help you tailor your interaction style to the company norm. 
+- Are employee interactions more formal or informal in nature?
+- Are ideas solicited from employees in different roles?
+
+### 4.2.4 Understand your impact
+
+As a project manager, you become a change agent. Remember: a change agent is a person from inside an organization who helps the organization transform by focusing on improving organizational effectiveness and development. When you begin a new role, sit down with management to better understand what is expected of you and how you can make the most of the opportunity.
+
+### 4.2.5 Sharpen your communication skills
+
+Ask questions about communication practices when you start a new role such as: Is it customary to sign emails from the team rather than from you individually? Should presentations include team members or be solely presented by the project manager? This can help you make sure you are adhering to expectations.
+
+              Example> The Family Java’s 
+              The Family Java coffeehouse has over 2,000 stores worldwide. The Family Java’s culture is closely linked to their strategy and capabilities—this is what they feel sets them apart from other coffee shops. The company has invested in a relationship-driven, employees-first approach.
+              
+              Mission
+              
+              To provide a welcoming environment where our employees become our family and our guests become our friends
+              
+              Values
+              
+              To create a place where everyone is welcome
+              To always give our best and hold ourselves accountable for the results
+              To treat others with respect and kindness
