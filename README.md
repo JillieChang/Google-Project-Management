@@ -384,19 +384,42 @@ So what is organizational structure? Organizational structure refers to the way 
   
 - **Classic** grouping includes what are usually called "functional" or "**top-down**" structures. The Classic grouping follows a typical chain of command where the Chief Executive Officer, also known as CEO, and other executives are at the top, followed by directors or managers, then their direct reports and so on. Each of these directors or managers typically oversee teams within their function of the organization, like marketing, sales, or human resources. You can see this type of structure in effect by looking at a branch of the **military**. **the Classic structure follows a traditional, top-down system of reporting**
 
-  ![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/3510da90-b2e3-4cb7-aab7-fd8171688faa)
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/d428afb5-6021-48d4-9bb8-b09652dfd779)
+
 
 - **Matrix**: You might think of a Matrix structure as a grid where you still have people above you, but you also have people in adjacent departments who expect to hear updates on your work progress. These people may not be your direct bosses, but you are responsible for communicating with them, since they may inform changes to your work.
 
-![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/80e63932-9ebb-41d3-a9c9-3514eccb4c57)
+![image](https://github.com/JillieChang/Google-Project-Management/assets/57914884/29256378-9983-49d1-b8e9-7a6ffa9afd52)
+
 
 For example, at Google, we have the major functions of marketing, sales, and more, with the traditional reporting chain. But we also have programs for our products, like Google Search, where project teams consist of program managers, engineers, user experience or "UX" designers, and so on, and each team member reports to their own management chains. **the Matrix structure has direct higher-ups to report to and stakeholders from other departments or programs.**
 
+### 4.1.3 How organizational structure impacts project management
+
+- One way organizational structure can impact the way you manage a project is by the **amount of authority** given to the project manager. Authority has to do with your ability to make decisions for the project that impact the organization. In some cases, you might have the authority to do things like select the vendors who provide services or goods for the project. Other times, you might have a set of vendors selected for you. Your level of authority and responsibility will vary from project to project.
+- Another way organizational structures can impact project management is through **resource availability**. Managing a project is a lot easier when you know how to access the people, equipotment and budget you need.
+
+  - in a classic organization, you depend on your manager in your org. to aprove resources. If you need more resources, you report to your manager and it to follows the chain of autorithy
+  - in a matrix empolyers have more than one manager. you are going to share resources and negotiate priorities.  The key is to make sure you know who your stakeholders are and who controls what since the chain of command isn't always as clearly defined as in the Classic structure
+
+### 4.1.4 The role of a Project Management Office
+
+**What is a PMO?**
+A Project Management Office, or PMO, is a group within an organization that defines, sets, and helps maintain project management standards and processes throughout that organization. It often acts as a coordinated center for all of the organization’s projects, helping them run more smoothly and efficiently.
+
+**What are the functions of a PMO?**
+PMOs offer guidance and support to their organization’s project managers. They share best practices, project statuses, and direction for all of the organization’s projects while often taking on strategic projects themselves. The main functions of a PMO include:
+
+- **Strategic planning and governance**: This is the most important function of a PMO. This involves defining project criteria, selecting projects according to the organization’s business goals, and then providing a business case for those projects to management. 
 
 
+- **Best practices**: PMOs help implement best practices and processes within their organization. They also share lessons learned from previous successful projects. They help ensure consistency among their organization’s projects by providing guidance about processes, tools, and metrics.
 
+- **Common project culture**: PMOs help set common project culture practices by training employees about optimal approaches and best practices. This helps keep project management practices consistent and efficient across the entire organization. 
 
+- **Resource management**: PMOs are often responsible for managing and allocating resources—such as people and equipment—across projects throughout the organization based on budget, priorities, schedules, and more. They also help define the roles and responsibilities needed on any given project. PMOs provide training, mentoring, and coaching to all employees, but project managers in particular. 
 
+- **Creation of project documentation, archives, and tools**: PMOs invest in and provide templates, tools, and software to help manage projects. They also play an important role in maintaining their organization’s project history. Once a project closes, they archive all of the documents created during the project for future reference and to capture lessons learned.
 
 
 
