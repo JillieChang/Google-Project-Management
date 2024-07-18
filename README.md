@@ -520,4 +520,32 @@ Sometimes the deliverable of a project is a new tool or new process that must be
          + **Ownership** means getting others to feel they are empowered to take responsibility for the successful completion of their tasks.
          + **Urgency** means getting them to understand that the project is important and to identify what actions need to be taken to move the project along.
            
-      2. Another core concept is to figure out the **right combination of skills and personalities** when selecting the people who will work on your team. Find people whose knowledge and skills complement one another. If your team is selected for you, see if you're able to choose who gets assigned which tasks. If that's not possible, then it's extra important for you to find ways to connect with your team. This will get them excited about the project so then they can be advocates for change when it's needed. One effective way of motivating your team is to communicate clearly your vision and approach for the project. Then you can share how you see everyone working together as a team to make it happen. Communicating this idea clearly allows others to share in your vision and take ownership in bringing it to life. The final core concept is the ever important one, effective communication. And I can't stress this enough: communication is key. Having effective communication with your
+    2. Another core concept is to figure out the **right combination of skills and personalities** when selecting the people who will work on your team. Find people whose knowledge and skills complement one another. If your team is selected for you, see if you're able to choose who gets assigned which tasks. If that's not possible, then it's extra important for you to find ways to connect with your team. This will get them excited about the project so then they can be advocates for change when it's needed. One effective way of motivating your team is to communicate clearly your vision and approach for the project. Then you can share how you see everyone working together as a team to make it happen. Communicating this idea clearly allows others to share in your vision and take ownership in bringing it to life. The final core concept is the ever important one, effective communication. And I can't stress this enough: communication is key. Having effective communication with your
+ 
+  ![image](https://github.com/user-attachments/assets/4bae6e23-f61d-4ab8-b8da-f32ab22d2308)
+
+
+## 4.4 Corporate and project governance
+
+Governance in business is the management framework within which decisions are made and accountability and responsibility are determined. In simple terms, governance is understanding who is in charge. In this reading, we will discuss corporate governance and project governance. It is important to learn how corporate and project governance are related since you may have to speak about governance in an interview. Additionally, you will need to understand how your project relates to the governance structure of the organization.
+
+**Corporate governance**
+Each organization is governed by its own set of standards and practices that direct and control its actions. Those standards and practices are called corporate governance, and they will influence your projects. Corporate governance is the framework by which an organization achieves its goals and objectives. 
+
+**Project governance**
+As a project manager, you will be responsible for project governance. Project governance is the framework for how project decisions are made. Project governance helps keep projects running smoothly, on time, and within budget. Project governance involves all the key elements that make a project successful. It tells you what activities an organization does and who is responsible for those activities. Project governance covers policies, regulations, functions, processes, procedures, and responsibilities. 
+
+**How project and corporate governance intersect**
+Project governance needs to be tailored to your organization's specific needs. These needs will influence how you implement and monitor the governance framework on your project. Project governance concerns those areas of corporate governance that are specifically related to project activities. Effective project governance ensures that an organization’s projects are aligned to the organization’s larger objectives, are delivered efficiently, and are sustainable. This includes:
+
+- Considering the long- and short-term interests of your organization
+- Making thoughtful decisions about which projects to take on and avoiding projects if you do not have sufficient resources
+- Providing timely, relevant, and reliable information to the board of directors and other major stakeholders
+- Eliciting the input and buy-in of senior managers since they are the decision-makers
+- During the initiation phase, prioritizing clear, reachable, and sustainable goals in order to reduce confusion and conflict
+- During the planning phase, assigning ownership and accountability to an experienced team to deliver, monitor, and control the process
+- During the execution phase, learning from mistakes and adapting to new or improved knowledge
+
+
+
+
