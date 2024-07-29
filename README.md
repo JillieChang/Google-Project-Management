@@ -548,4 +548,13 @@ Project governance needs to be tailored to your organization's specific needs. T
 
 
 
+glossary
+https://docs.google.com/document/d/13C4Rqh4iAKZZbFHmfPbeL8K6fWS0aJf22E8ZcUdMs5w/edit?resourcekey=0-wrpnX39tn1skqdxEeV1frg
+https://docs.google.com/document/d/100bNgK8Ly_30OjVzjRPkxBNle-zF92YtclgXCg_doGU/template/preview
+
+next...
+![image](https://github.com/user-attachments/assets/1d198eab-a72e-47f1-af01-99eda6df1c65)
+
+
+
 
